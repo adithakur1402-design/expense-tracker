@@ -97,6 +97,9 @@ npm start
 
  ### 🏢 Barrownz Group (BPW)
 
+
+---
+ **Aditya Singh**\
 ---
 
  © 2026 **Barrownz Group**. All rights reserved.
